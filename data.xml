@@ -32,6 +32,16 @@
   <Buff kind="80203612" delay="120000" type="80200140" />
   <Buff kind="80203649" delay="120000" type="52008" />
   <Buff kind="80203718" delay="120000" type="52007" />
+  <Buff kind="80203875" delay="200000" type="200227" />
+  <Buff kind="80203901" delay="200000" type="200193" />
+  <Buff kind="80203989" delay="140000" type="52008" />
+  <Buff kind="80204055" delay="300000" type="200494" />
+  <Buff kind="80204021" delay="120000" type="58002" />
+  <Buff kind="80203953" delay="300000" type="99201" />
+  <Buff kind="80203940" delay="60000" type="0" />
+  <Buff kind="80203811" delay="200000" type="0" />
+  <Buff kind="80203779" delay="200000" type="0" />
+  <Buff kind="80203021" delay="120000" type="0" />
   <Buff kind="80201167" delay="90000" type="0" />
   <Buff kind="80201575" delay="150000" type="0" />
   <Buff kind="80201678" delay="120000" type="0" />
@@ -43,9 +53,9 @@
   <Buff kind="80202829" delay="120000" type="0" />
   <Buff kind="80202849" delay="90000" type="0" />
   <Buff kind="80202851" delay="150000" type="0" />
-  <Buff kind="80203021" delay="120000" type="0" />
   <Buff kind="80203087" delay="60000" type="0" />
   <Buff kind="80203326" delay="90000" type="0" />
   <Buff kind="80203483" delay="120000" type="0" />
   <Buff kind="80203657" delay="180000" type="0" />
+  <Buff kind="80203825" delay="120000" type="0" />
 </Moon>
