@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Moon>
   <Update>
+    <Version>1.0.08022026.1</Version> 
+    <Reason>None</Reason>
+  </Update>
+  <Update>
     <Version>1.0.08022026</Version> 
     <Reason>None</Reason>
   </Update>
